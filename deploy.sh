@@ -1,0 +1,1 @@
+scp -r ~/workspace/lp-practice-static i4chan@s239.xrea.com:~/lp-practice-static
